@@ -1,0 +1,7 @@
+{
+  "name": "AI Product Photography Director",
+  "description": "Giám đốc sáng tạo nhiếp ảnh sản phẩm AI - Phân tích ảnh sản phẩm, thiết lập tùy chọn chuyên sâu và sinh bộ prompt thương mại chuẩn quốc tế cho Midjourney, Flux, DALL-E.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
